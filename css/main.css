@@ -125,10 +125,6 @@ header .logo {
     opacity: 85%;
     margin-bottom: 50px;
 }
-header .logo::before {
-    content: "\f058";
-    font-family: "Font Awesome 6 Free";
-}
 /*! END header */
 
 /*? START main */
